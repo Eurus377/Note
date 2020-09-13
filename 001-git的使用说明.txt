@@ -1,0 +1,6 @@
+git init
+git remote add origin hhtps://.....
+--->多人先git pull 更新
+改变
+git add *
+git push origin master
